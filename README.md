@@ -3,4 +3,5 @@
 <h3 align="center">TODO</h3>
 <div align="center">
   </div>
-  <p align="center">
+  <p align="center">TODO is a pluggable, multi-user, multi-group task management and assignment application created using Django, designed to be dropped into an existing site as a reusable app. TODO can be used as a personal to-do tracker, or a group task management system.
+  </p>
